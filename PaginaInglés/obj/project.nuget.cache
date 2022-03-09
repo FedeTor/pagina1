@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "42S4GNT0y0Vy/JOLVr3wsU72iXeYhW/mcCZ3AQBQdju23GfMMPEA6arJCk7biMulR+RFQ6f82HkTrj+ksQBsGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\proyectos para agregar\\PaginaInglés\\PaginaInglés\\PaginaInglés.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
