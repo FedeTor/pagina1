@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\proyectos para agregar\\PaginaInglés\\PaginaInglés\\PaginaInglés.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\pagIngles\\PaginaInglés\\PaginaInglés.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\proyectos para agregar\\PaginaInglés\\PaginaInglés\\PaginaInglés.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\pagIngles\\PaginaInglés\\PaginaInglés.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\proyectos para agregar\\PaginaInglés\\PaginaInglés\\PaginaInglés.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\pagIngles\\PaginaInglés\\PaginaInglés.csproj",
         "projectName": "PaginaInglés",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\proyectos para agregar\\PaginaInglés\\PaginaInglés\\PaginaInglés.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\pagIngles\\PaginaInglés\\PaginaInglés.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\proyectos para agregar\\PaginaInglés\\PaginaInglés\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\pagIngles\\PaginaInglés\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

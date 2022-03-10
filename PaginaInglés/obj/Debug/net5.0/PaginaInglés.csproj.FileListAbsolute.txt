@@ -38,3 +38,43 @@ C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PaginaInglés\PaginaI
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PaginaInglés\PaginaInglés\obj\Debug\net5.0\PaginaInglés.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PaginaInglés\PaginaInglés\obj\Debug\net5.0\PaginaInglés.csproj.CopyComplete
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PaginaInglés\PaginaInglés\bin\Debug\net5.0\prepros-6.config
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\prepros-6.config
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.exe
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.deps.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.runtimeconfig.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\ref\PaginaInglés.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.Views.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.Views.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\scopedcss\bundle\PaginaInglés.styles.css
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\staticwebassets\PaginaInglés.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.Views.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\ref\PaginaInglés.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.csproj.CopyComplete
