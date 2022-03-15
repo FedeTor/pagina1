@@ -268,7 +268,7 @@
             </div>
             <div class="col-lg-8 col-md-8 col-xs-12">
                 <div class="contact-form">
-                    <form id="contact" action="" method="get">
+                    <form id="contact" action="EnvioMail" method="POST">
                         <div class="row">
                             <div class="col-md-6 col-sm-12">
                                 <fieldset>
@@ -302,6 +302,15 @@
                             </div>
                         </div>
                     </form>
+                     @if (TempData["ok"] != null)
+                {
+                    <script type="text/javascript">
+                        window.onload = function () {
+                            alert("Tus datos fueron enviados correctamente");                            
+                        };
+                    </script>
+                }
+                <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
                 </div>
             </div>
         </div>

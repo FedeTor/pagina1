@@ -46,7 +46,6 @@ C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\Pag
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.runtimeconfig.json
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.runtimeconfig.dev.json
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.dll
-C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\ref\PaginaInglés.dll
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.pdb
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.Views.dll
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\PaginaInglés.Views.pdb
@@ -78,3 +77,7 @@ C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\ref
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.pdb
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\PaginaInglés.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\MailKit.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\pagIngles\PaginaInglés\obj\Debug\net5.0\refint\PaginaInglés.dll
