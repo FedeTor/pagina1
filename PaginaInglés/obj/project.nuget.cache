@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jk8jQrbjFcrXVwLL84CLJo+5lsjHg8CXwNBLjIsWjFFh4yjCH6lApzx8yCghhtv9msWWqXk+v+afcj7EDY8nIA==",
+  "dgSpecHash": "4DXQu9nX6sFQnisXqMZ+BPX4CUOBB7/vvLYfL/Qll/UllUDI8dYzOkIQy/srogs4z89My0ukiVezrp0pHxHG5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\pagIngles\\PaginaInglés\\PaginaInglés.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Azure\\pagIngles\\PaginaInglés\\PaginaInglés.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\mimekit\\3.1.1\\mimekit.3.1.1.nupkg.sha512",

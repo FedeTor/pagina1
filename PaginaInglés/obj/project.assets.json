@@ -336,11 +336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\pagIngles\\PaginaInglés\\PaginaInglés.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Azure\\pagIngles\\PaginaInglés\\PaginaInglés.csproj",
       "projectName": "PaginaInglés",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\pagIngles\\PaginaInglés\\PaginaInglés.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Azure\\pagIngles\\PaginaInglés\\PaginaInglés.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\3-PORTFOLIO\\pagIngles\\PaginaInglés\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Azure\\pagIngles\\PaginaInglés\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -395,7 +395,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
